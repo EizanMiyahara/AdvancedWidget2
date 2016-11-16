@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     TextView tvHasil;
     @BindColor(R.color.colorAccent)
     int colorAccent;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
